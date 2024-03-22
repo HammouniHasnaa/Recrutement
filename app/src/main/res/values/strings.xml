@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recrutement</string>
+    <string-array name="villes_array">
+        <item>Agadir</item>
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Tanger</item>
+        <item>Settat</item>
+        <item>Mohammedia</item>
+    </string-array>
+</resources>
